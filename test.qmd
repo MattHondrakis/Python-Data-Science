@@ -1,7 +1,7 @@
 ---
 title: "Quarto Demo"
 format:
-    html:
+    github_document:
         code-fold: true
 jupyter: python3
 ---
